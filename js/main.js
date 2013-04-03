@@ -58,23 +58,23 @@ $(document).ready(function () {
 	});
 
 	$('#facebook').click(function (){
-		location.href = 'http://www.facebook.com';
+		location.href = 'http://www.facebook.com/medallalightofficial';
 	});
 	
 	$('#youtube').click(function (){
-		location.href = 'http://www.youtube.com';
+		location.href = 'http://www.youtube.com/medallalightvideo';
 	});
 	
 	$('#twitter').click(function (){
-		location.href = 'http://www.twitter.com';
+		location.href = 'http://twitter.com/medallaofficial';
 	});
 	
 	$('#tumblr').click(function (){
-		location.href = 'http://www.tumblr.com';
+		location.href = 'http://www.medallalight.tumblr.com/';
 	});
 	
 	$('#instagram').click(function (){
-		location.href = 'http://www.instagram.com';
+		location.href = 'http://instagram.com/medallalight';
 	});
 	
 	$('#santurceesley').click(function (){

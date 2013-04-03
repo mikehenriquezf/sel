@@ -49,12 +49,12 @@ header { height: 549px; width: 100% }
 #sel_fb a:hover { background-position: -71px 0; }
 #socials { width: 370px; margin-top: -53px; margin-left: 144px; }
 #socials ul { list-style: none;  }
-#socials li {  width: 30px; height: 30px; float: left; margin: 4px; }
-.fb { display: block; background: url('../img/qr_social.png') no-repeat; background-position: 0px 0; }
-.tw { background: url('../img/qr_social.png') no-repeat; background-position: -36px 0; }
-.ig { background: url('../img/qr_social.png') no-repeat; background-position: -72px 0; }
-.yt { background: url('../img/qr_social.png') no-repeat; background-position: -108px 0; }
-.tb { background: url('../img/qr_social.png') no-repeat; background-position: -144px 0; }
+#socials li a {  width: 30px; height: 30px; float: left; margin: 4px; }
+.fb a { display: block; background: url('../img/qr_social.png') no-repeat; background-position: 0px 0; }
+.tw a { background: url('../img/qr_social.png') no-repeat; background-position: -36px 0; }
+.ig a { background: url('../img/qr_social.png') no-repeat; background-position: -72px 0; }
+.yt a { background: url('../img/qr_social.png') no-repeat; background-position: -108px 0; }
+.tb a { background: url('../img/qr_social.png') no-repeat; background-position: -144px 0; }
 #mapa { width: 100%; height: 427px; }
 
 

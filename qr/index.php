@@ -38,16 +38,16 @@
 
 		<h3>Enlaces:</h3>
 
-		<div id="sel_fb"><a href="#"></a></div>
-		<div id="sel_web"><a href="#"></a></div>
+		<div id="sel_fb"><a href="http://www.facebook.com/santurceesley"></a></div>
+		<div id="sel_web"><a href="http://santurceesley.com/"></a></div>
 		<div class="clear"></div>
 		<div id="socials">
 			<ul>
-				<li class="fb"><a href="#"></a></li>
-				<li class="tw"><a href="#"></a></li>
-				<li class="ig"><a href="#"></a></li>
-				<li class="yt"><a href="#"></a></li>
-				<li class="tb"><a href="#"></a></li>
+				<li class="fb"><a href="http://www.facebook.com/medallalightofficial"></a></li>
+				<li class="tw"><a href="http://twitter.com/medallaofficial"></a></li>
+				<li class="ig"><a href="http://instagram.com/medallalight"></a></li>
+				<li class="yt"><a href="http://www.youtube.com/medallalightvideo"></a></li>
+				<li class="tb"><a href="http://www.medallalight.tumblr.com/"></a></li>
 			</ul>
 		</div>
 	</div>
