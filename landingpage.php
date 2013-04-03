@@ -62,10 +62,12 @@
 	<div id="nl_content">
 		<div id="nl_message">Suscríbete a nuestro "mailing list"</div>
 		<div id="nl_input">
-			<div>
-				<input type="text" id="email" placeholder="Su Correo Electrónico">
-			</div>
-			<div id="cta"></div>
+			<form action="http://medallalight.us2.list-manage.com/subscribe/post?u=0c5272d8193fc1b9b37342b72&amp;id=f4fb36c468" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+				<div>
+					<input type="text" name="EMAIL" id="mce-EMAIL" placeholder="Su Correo Electrónico">
+				</div>
+				<div id="cta"></div>
+			</form>
 		</div>
 	</div>
 </section>
