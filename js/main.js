@@ -38,21 +38,22 @@ $(document).ready(function () {
 	);
 
 	$('#cta').click(function (){
-		var email = $('#email').val();
+		var email = $('#mce-EMAIL').val();
 		var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
 
 		if (!filter.test(email)){
 			alert('Por favor ingrese su email');
 		}else{
-			$.ajax({
-			    type: "POST",
-			    url: "includes/save.php",
-			    data: { email: email }
-			}).done(function( msg ) {
-			    if(msg == 1){   
-			    	$('#nl_message').html('Gracias, su email ha sido ingresado!');
-			    }
-		    });
+			$('#mc-embedded-subscribe-form').submit();
+			// $.ajax({
+			//     type: "POST",
+			//     url: "includes/save.php",
+			//     data: { email: email }
+			// }).done(function( msg ) {
+			//     if(msg == 1){   
+			//     	$('#nl_message').html('Gracias, su email ha sido ingresado!');
+			//     }
+		 //    });
 	    }
 	});
 

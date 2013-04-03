@@ -31,7 +31,7 @@ a { color: #ffda00; text-decoration: underline; }
 .icon { margin: 60px auto 0 auto; width: 71px; height: 73px; }
 .txt { font-family: "jaf-bernina-sans-condensed",sans-serif; font-style: normal; font-weight: 400; color: #fff; font-size: 24px; text-align: center; text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.4); display: none; opacity: 0; filter:alpha(opacity=0); }
 #nl_input { position: absolute; margin-left: 520px; margin-top: 37px; background: url('../img/newsletter_input_background.png') no-repeat; width: 352px; height: 62px; }
-#email { font-family: "jaf-bernina-sans-condensed"; color: #989898; font-size: 18px; margin-top: 12px; margin-left: 14px; height: 30px; border: none; }
+#mce-EMAIL { font-family: "jaf-bernina-sans-condensed"; color: #989898; font-size: 18px; margin-top: 12px; margin-left: 14px; height: 30px; border: none; }
 #cta { background: url('../img/btn_subscribete_normal.png') no-repeat; width: 114px; height: 54px; position: absolute; margin-top: -39px; margin-left: 233px; cursor: pointer; }
 
 /*STYLES PAGINA QR*/
