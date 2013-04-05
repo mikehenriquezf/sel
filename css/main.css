@@ -39,8 +39,8 @@ header { height: 549px; width: 100% }
 #qr_logos { width: 960px; margin: 40px auto; text-align: center; }
 #qr_logos div img { margin-bottom: 40px; }
 #qr_logos div img :last-child { margin-bottom: 0px; }
-#qr_content { background: url('../img/yellowbackqr.png') repeat-x; height: 438px; }
-#contenido { width: 348px; margin: 0 auto; padding-top: 28px; }
+#qr_content { background: url('../img/yellowbackqr.png') repeat-x top #ffda00; overflow: hidden; }
+#contenido { width: 348px; margin: 0 auto; padding-top: 28px; padding-bottom: 60px; }
 #contenido h3 { font-family: "jaf-bernina-sans-condensed",sans-serif; font-style: normal; font-weight: 300; color: #000; font-size: 32px; margin: 0px; margin-bottom: 10px; }
 #contenido p { font-family: "jaf-bernino-sans",sans-serif; font-style: normal; font-weight: 400; color: #3c3c3c; }
 #sel_web a { background: url('../img/selweb.png') no-repeat; float: left; width: 109px; height: 34px; display: block; }
